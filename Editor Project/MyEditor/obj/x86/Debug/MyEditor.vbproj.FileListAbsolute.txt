@@ -1,0 +1,48 @@
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\bin\Debug\MyEditor.exe
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\bin\Debug\MyEditor.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\bin\Debug\MyEditor.xml
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\MyEditor.Form1.resources
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\MyEditor.Resources.resources
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\MyEditor.exe
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\MyEditor.xml
+C:\Users\win7\AppData\Local\Temporary Projects\MyEditor\obj\x86\Debug\MyEditor.pdb
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.exe
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.xml
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.pdb
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\bin\Debug\MyEditor.exe
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\bin\Debug\MyEditor.pdb
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\bin\Debug\MyEditor.xml
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.frmEditor.resources
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.Resources.resources
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.exe
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.xml
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.pdb
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\bin\Debug\MyEditor.exe
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\bin\Debug\MyEditor.pdb
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\bin\Debug\MyEditor.xml
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.frmEditor.resources
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\MyEditor.Resources.resources
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\vb\Sample Programs\More Programs\MyEditor\MyEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\vb\Sample Programs\VB_Net_Hands_On\Editor Project\MyEditor\obj\x86\Debug\MyEditor.exe
+F:\vb\Sample Programs\VB_Net_Hands_On\Editor Project\MyEditor\obj\x86\Debug\MyEditor.xml
+F:\vb\Sample Programs\VB_Net_Hands_On\Editor Project\MyEditor\obj\x86\Debug\MyEditor.pdb
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\obj\x86\Debug\MyEditor.exe
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\obj\x86\Debug\MyEditor.xml
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\obj\x86\Debug\MyEditor.pdb
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\bin\Debug\MyEditor.exe
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\bin\Debug\MyEditor.pdb
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\bin\Debug\MyEditor.xml
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\obj\x86\Debug\MyEditor.frmEditor.resources
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\obj\x86\Debug\MyEditor.Resources.resources
+C:\Users\POTOLIN\Downloads\Unais Projects\Editor Project\MyEditor\obj\x86\Debug\MyEditor.vbproj.GenerateResource.Cache
+C:\Users\POTOLIN\Desktop\Resty Vbnet\Editor Project\MyEditor\obj\x86\Debug\MyEditor.exe
+C:\Users\POTOLIN\Desktop\Resty Vbnet\Editor Project\MyEditor\obj\x86\Debug\MyEditor.xml
+C:\Users\POTOLIN\Desktop\Resty Vbnet\Editor Project\MyEditor\obj\x86\Debug\MyEditor.pdb
